@@ -23,6 +23,7 @@ This document presents a financial dataset in tabular form, capturing sales tran
    - Date formatting mixes "DD-MM-YYYY" with month names (e.g., "01-06-2024 June").  
 
  **Purpose**  
-The dataset appears to track sales performance for financial analysis, likely used to identify trends, profitability, or operational insights. Page 2 is blank.  
+The dataset appears to track sales performance for financial analysis, likely used to identify trends, profitability, or operational insights. 
 
-**Note**: Requires cleaning (e.g., product name correction, date standardization) for precise analysis.
+
+
